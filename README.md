@@ -1,6 +1,6 @@
 # Neural style
 
-imprement for chainer
+Implement for chainer
 
 # Requirement
 
@@ -8,7 +8,11 @@ Python 3.5
 
 chainer version 3.2.0
 
+cupy 2.4.0
+
 CUDA 9.0
+
+cuDNN 8.0
 
 # Reference
 
